@@ -2,6 +2,6 @@
     "name": "Maum",
     "symbol": "tMAUM",
     "decimals": "9",
-    "image": "https://github.com/PADO-one/assets/maum_512x512.png?raw=true",
+    "image": "https://raw.githubusercontent.com/PADO-one/assets/refs/heads/main/maum_512x512.png",
     "description": "Maum with love."
 }
